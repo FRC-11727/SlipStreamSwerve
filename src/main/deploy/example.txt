@@ -1,0 +1,3 @@
+Files placed in this directory will be deployed to the RoboRIO into the
+/home/lvuser/deploy directory. Use edu.wpi.first.wpilibj.Filesystem.getDeployDirectory()
+to get a proper path relative to the deploy directory.
